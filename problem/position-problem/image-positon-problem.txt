@@ -1,0 +1,10 @@
+.card-img{
+    width:50%;
+    position: relative;
+    top:0;
+    left: 30%;
+   
+}
+
+Q: keno position absolute dilam na?
+   solution:  absolute dile kaj hobe na.  absolute dile image ta tar height width hariye felbe.

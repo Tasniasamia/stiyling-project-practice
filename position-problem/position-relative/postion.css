@@ -1,0 +1,13 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.one{
+    height: 200px;
+    width: 30%;
+    background-color: chocolate;
+    position: relative;
+    left: 50%;
+    top:50px;
+}
